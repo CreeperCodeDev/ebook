@@ -1,0 +1,23 @@
+[
+  {
+    "cover": "https://storage.googleapis.com/material_storage_1/mediaPic/20241111031635.jpg",
+    "title": "113國中國文",
+    "grade": "1下",
+    "edition": "康軒版",
+    "download": "https://storage.googleapis.com/material/2501091737599.zip"
+  },
+  {
+    "cover": "https://example.com/covers/book2.jpg",
+    "title": "數學課本第二冊",
+    "grade": "八年級",
+    "edition": "南一版",
+    "download": "https://example.com/downloads/book2.pdf"
+  },
+  {
+    "cover": "https://example.com/covers/book3.jpg",
+    "title": "英文課本第三冊",
+    "grade": "九年級",
+    "edition": "翰林版",
+    "download": "https://example.com/downloads/book3.pdf"
+  }
+]
